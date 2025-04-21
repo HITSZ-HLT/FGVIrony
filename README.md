@@ -1,5 +1,5 @@
 # FGVIrony 
-Published in IPM.
+
 
 ## Abstract
 
