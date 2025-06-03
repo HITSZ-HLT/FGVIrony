@@ -42,5 +42,18 @@ Each entry in the dataset contains the following fields:
 
 If you find this work useful, welcome to cite us.
 ```bib
+@article{WEN2025104169,
+title = {FGVIrony: A Chinese Dataset of Fine-grained Verbal Irony},
+journal = {Information Processing & Management},
+volume = {62},
+number = {5},
+pages = {104169},
+year = {2025},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2025.104169},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457325001104},
+author = {Zhiyuan Wen and Rui Wang and Qianlong Wang and Lin Gui and Yunfei Long and Shiwei Chen and Bin Liang and Min Yang and Ruifeng Xu}
+}
+
 
 ```
